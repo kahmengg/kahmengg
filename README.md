@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Computer Science student passionate majoring in Big Data & System Security
+## Hi there 👋 I'm a Computer Science student majoring in Big Data & System Security
 
 🔍 Exploring new technologies & contributing to open-source
 
