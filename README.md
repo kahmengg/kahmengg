@@ -17,12 +17,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=kahmengg&theme=tokyonight)
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400"/>
 
 <!--
