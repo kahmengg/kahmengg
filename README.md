@@ -19,8 +19,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
-![trophy](https://github-profile-trophy.vercel.app/?username=kahmengg&theme=darkhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&cache_seconds=0&langs_count=10)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
