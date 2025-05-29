@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Computer Science student majoring in Big Data & System Security
 
-🔍 Exploring new technologies & contributing to open-source
+🔍 Exploring new technologies 
 
 
 ### 🚀 Tech Stack:
