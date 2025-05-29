@@ -22,7 +22,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kahmengg&theme=tokyonight)
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
 
 <!--
 **kahmengg/kahmengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
