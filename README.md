@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Computer Science student majoring in Big Data & System Security
+## Hi there 👋 I'm a recent graduate passionate about leveraging **big data**, **cloud technologies**, and **system security** to solve real-world problems.
 
 🔍 Exploring new technologies 
 
@@ -18,12 +18,16 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kahmengg&theme=tokyonight)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kahmengg&theme=tokyonight)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhlenM5MTJja2x6d3Fya3B2OW83NHV1MmRzcGhhaHV0c2NhNnRmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X2QBmjCQAHtle/giphy.gif" width="300"/>
 
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahmengkoh@gmail.com)
 <!--
 **kahmengg/kahmengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
