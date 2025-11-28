@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a recent graduate passionate about leveraging **big data**, **cloud technologies**, and **system security** to solve real-world problems.
+## Hi  👋 I'm a recent graduate passionate about leveraging **big data**, **cloud technologies**, and **system security** to solve real-world problems.
 
 🔍 Exploring new technologies 
 
