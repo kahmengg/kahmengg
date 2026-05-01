@@ -66,9 +66,9 @@ I'm a Computer Science graduate from UOW, specialising in **Big Data & Digital S
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Kah Meng's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
