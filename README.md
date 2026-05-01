@@ -66,9 +66,9 @@ I'm a Computer Science graduate from UOW, specialising in **Big Data & Digital S
 
 <div align="center">
 
-![Kah Meng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
@@ -79,10 +79,6 @@ I'm a Computer Science graduate from UOW, specialising in **Big Data & Digital S
 I'm currently **open to opportunities** in system analysis, technical BA, or software development roles in Singapore.
 
 If something here caught your eye — or you just want to talk tech — feel free to reach out.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kahmeng.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kahmeng.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kahmengg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kahmengg)
-[![Email](https://img.shields.io/badge/Email-kahmengkoh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahmengkoh@gmail.com)
 
 ---
 
