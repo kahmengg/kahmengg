@@ -2,8 +2,6 @@
 
 # hey, I'm Kah Meng 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kahmengg&color=blueviolet&style=flat-square)
-
 **CS grad · Builder**
 
 *I build things that make life a little easier, faster, and more effective.*
