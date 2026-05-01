@@ -2,6 +2,8 @@
 
 # hey, I'm Kah Meng 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=kahmengg&color=blueviolet&style=flat-square)
+
 **CS grad · Builder**
 
 *I build things that make life a little easier, faster, and more effective.*
@@ -62,15 +64,9 @@ I'm a Computer Science graduate from UOW, specialising in **Big Data & Digital S
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kahmengg&theme=tokyonight&hide_border=true)
-
-</div>
+## 🔧 What I'm currently working on
+- Building out more projects to add to my portfolio
+- Actively looking for opportunities in SG tech/banking space
 
 ---
 
