@@ -1,43 +1,92 @@
-## Hi  👋 I'm a recent graduate passionate about leveraging **big data**, **cloud technologies**, and **system security** to solve real-world problems.
+<div align="center">
 
-🔍 Exploring new technologies 
+# hey, I'm Kah Meng 👋
 
+**CS grad · Builder**
 
-### 🚀 Tech Stack:
+*I build things that make life a little easier, faster, and more effective.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kahmeng.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kahmeng.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kahmengg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kahmengg)
+[![Email](https://img.shields.io/badge/Email-kahmengkoh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahmengkoh@gmail.com)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+## 🙋‍♂️ About Me
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kahmengg&theme=tokyonight)
+I'm a Computer Science graduate from UOW, specialising in **Big Data & Digital Systems Security**. I enjoy identifying problems and building practical solutions.
 
+- 🌱 Learning more about scalable systems and modern development practices
+- 💻 Interested in system analysis, backend development, and automation
+- 👀 Open to opportunities in tech-related roles
+- 📍 Based in Singapore
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kahmengg&theme=tokyonight)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhlenM5MTJja2x6d3Fya3B2OW83NHV1MmRzcGhhaHV0c2NhNnRmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X2QBmjCQAHtle/giphy.gif" width="300"/>
+---
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahmengkoh@gmail.com)
-<!--
-**kahmengg/kahmengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Big Data**
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Testing & Automation**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kah Meng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahmengg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahmengg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently **open to opportunities** in system analysis, technical BA, or software development roles in Singapore.
+
+If something here caught your eye — or you just want to talk tech — feel free to reach out.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kahmeng.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kahmeng.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kahmengg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kahmengg)
+[![Email](https://img.shields.io/badge/Email-kahmengkoh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahmengkoh@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Built with curiosity · Deployed with caffeine</sub>
+</div>
